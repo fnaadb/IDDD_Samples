@@ -1,4 +1,4 @@
 IDDD
 ====
 
-Sample Domain Models for the Book: Implementing Domain-Driven Design
+General content for the Book: Implementing Domain-Driven Design
