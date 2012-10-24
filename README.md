@@ -1,4 +1,4 @@
 IDDD
 ====
 
-General content for the Book: Implementing Domain-Driven Design
+General Content for the Book: Implementing Domain-Driven Design
